@@ -5,7 +5,7 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "biz-food.app"
         versionCode = "10"
-        version     = "1.0.0">
+        version     = "1.1.0">
 
     <name>ТЕСТ. biz-food.com</name>
 
@@ -40,12 +40,12 @@
 
 
     <platform name="android">
-        <icon src="res/android/icon/6c637acf542fe82bf3c322b47b458fa3.png" density="ldpi" />
-        <icon src="res/android/icon/56de64baecb4251be7a44fbaee3ae279.png" density="mdpi" />
-        <icon src="res/android/icon/0813f2bae1aea621a9c4844cfd827068.png" density="hdpi" />
-        <icon src="res/android/icon/f7d7c7048ac030c41fe579b6a946a944.png" density="xhdpi" />
-        <icon src="res/android/icon/746c883d325de2c60534972e6b65d182.png" density="xxhdpi" />
-        <icon src="res/android/icon/42ae4fea08f8bf71bf56665a017e78ae.png" density="xxxhdpi" />
+        <icon src="res/android/icon/fb0395556daadd0d54d9bf67be8f1a74.png" density="ldpi" />
+        <icon src="res/android/icon/d365a4ab56a350e05073ae870642bccd.png" density="mdpi" />
+        <icon src="res/android/icon/48c9052c9acff78c23c0d4720bf5f7ed.png" density="hdpi" />
+        <icon src="res/android/icon/3452fd35f36da858c7b9f94e66752b51.png" density="xhdpi" />
+        <icon src="res/android/icon/3214e24ff4638204ea51269a99f1fb15.png" density="xxhdpi" />
+        <icon src="res/android/icon/77c0dfc560e4f0930e4e48d956093fd0.png" density="xxxhdpi" />
 
         <splash src="res/android/screen/513426c30c7232cbe492ebbbf6a9faed.png" density="port-hdpi"/>
         <splash src="res/android/screen/80593811372bdd85281084fcc003bc58.png" density="port-ldpi"/>
@@ -54,20 +54,20 @@
     </platform>
 
     <platform name="ios">
-        <icon src="res/ios/icon/25a057e590274d9e4eb7c9867868ae7a.png" width="180" height="180" />
-        <icon src="res/ios/icon/7a461e00a3f7315230fd3145de890c21.png" width="60" height="60" />
-        <icon src="res/ios/icon/e913cf5827eaa515e8aa7377e5940e38.png" width="120" height="120" />
-        <icon src="res/ios/icon/be96bfa3a72711c37c3d8f9b1fd49c66.png" width="76" height="76" />
-        <icon src="res/ios/icon/330feb59dff5f6a719b8b6159c0326ae.png" width="152" height="152" />
-        <icon src="res/ios/icon/0408da2950ed17007b232ec9f2c53926.png" width="57" height="57" />
-        <icon src="res/ios/icon/32ea24ca21496ce3c35c147d619e11d3.png" width="114" height="114" />
-        <icon src="res/ios/icon/055b9c764578edad39cd19e3cc7fbecf.png" width="72" height="72" />
-        <icon src="res/ios/icon/773a2786a0cc3884519f20d2f8a5a7b1.png" width="144" height="144" />
-        <icon src="res/ios/icon/8970ccd4df168e93c1982a6dc65ce1ef.png" width="167" height="167" />
-        <icon src="res/ios/icon/ad14a2078c7382a926f54a30cea5d77e.png" width="29" height="29" />
-        <icon src="res/ios/icon/b1956da11df0d1031b477053e1526fba.png" width="58" height="58" />
-        <icon src="res/ios/icon/a82dc92ee4bc63cec18af56e4b64cdd1.png" width="87" height="87" />
-        <icon src="res/ios/icon/27635730503b248da35ccbf9dc4e0264.png" width="167" height="167" />
+        <icon src="res/ios/icon/334f41f00883a2198a92c6baa4f041d6.png" width="180" height="180" />
+        <icon src="res/ios/icon/a73d6dbc0921e1dbabae3fc3d03b0dd2.png" width="60" height="60" />
+        <icon src="res/ios/icon/00df014091e539f57667000ae42ff7e6.png" width="120" height="120" />
+        <icon src="res/ios/icon/cf669bf64c1790caa6eb1fc6bbe3c19c.png" width="76" height="76" />
+        <icon src="res/ios/icon/78406303e5831d04131c97766c60e991.png" width="152" height="152" />
+        <icon src="res/ios/icon/b6668fa5cadf0e939781b874d7f065e8.png" width="57" height="57" />
+        <icon src="res/ios/icon/28ea27c7e597a9ce2276291be4769c10.png" width="114" height="114" />
+        <icon src="res/ios/icon/32a16364ff705f7ce370e2b1e69fe620.png" width="72" height="72" />
+        <icon src="res/ios/icon/e2f20d02fe9e490d0d835caa89bd4158.png" width="144" height="144" />
+        <icon src="res/ios/icon/c8ffb9804820547feff1726876c27bc8.png" width="167" height="167" />
+        <icon src="res/ios/icon/0e983d6ec90a405d1ed360f2f66e4957.png" width="29" height="29" />
+        <icon src="res/ios/icon/09cb8f7cd858028509c0b5694d288278.png" width="58" height="58" />
+        <icon src="res/ios/icon/a5c0d2feceb442998dde3c08ffcb5fab.png" width="87" height="87" />
+        <icon src="res/ios/icon/bfee3a3ddbcf4e3a462ea9864df5b172.png" width="167" height="167" />
 
         <splash src="res/ios/screen/b867dc8e769f4131fc0d93282b0642dc.png" />
         <splash src="res/ios/screen/ece07c9041c424c78668a63eb9962c15.png" />
